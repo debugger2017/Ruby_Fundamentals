@@ -4,3 +4,4 @@ def doubles(var)
 end
 
 doubles(2)
+doubles("kartik")
