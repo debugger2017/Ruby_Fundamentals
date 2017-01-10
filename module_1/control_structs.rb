@@ -1,7 +1,9 @@
 lander_count = 10
 
-if lander_count > 11
-	puts "Greater"
+message = if lander_count > 11
+	"Greater"
 else
-	puts "Smaller"
+	"Smaller"
 end
+
+puts message
